@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # 💳 Credit Card Fraud Detection using Machine Learning
 
+## Live DEMO : https://credit-card-fraud-prediction-ml.streamlit.app/
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![CatBoost](https://img.shields.io/badge/CatBoost-ML-yellow?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
